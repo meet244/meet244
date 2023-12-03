@@ -24,7 +24,7 @@
  </p> 
 <p align="left">
 <a href="https://www.leetcode.com/meet2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meet2005" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@meet2005pokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@meet2005pokar" height="30" width="40" /></a>
+<a href="=https://www.hackerrank.com/profile/meet2005pokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@meet2005pokar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">hobbies & interests</h3>
