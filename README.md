@@ -1,10 +1,5 @@
 
 <h1  align="center">Hi 👋, Meet Here!</h1>
-
-<h3  align="center">A developer from India</h3>
-
-  
-
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=meet244&label=Profile%20views&color=0e75b6&style=flat"  alt="meet244"  />  </p>
 
   
@@ -85,48 +80,25 @@
 <a  href="https://scikit-learn.org/"  target="_blank"  rel="noreferrer">  <img  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"  alt="scikit_learn"  width="40"  height="40"/>  </a>
 <a  href="https://www.tensorflow.org"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  alt="tensorflow"  width="40"  height="40"/>  </a>  </p>
 
-<hr>
 
-<div  align="center">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=meet244&show_icons=true&theme=highcontrast&locale=en&layout=compact"  alt="meet244"  />
-
-</div>
-
-  
-
-<br  />
-
-  
-
-<div  align="center">
-
-<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=meet244&show_icons=true&theme=highcontrast&locale=en"  alt="mee-meet"  /></p>
-
-</div>
-
-  
-
-<div  align="center">
-
+## 📊 GitHub Stats
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=meet244&theme=highcontrast&locale=en&layout=donut-vertical"  alt="meet244"  />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=meet244&show_icons=true&theme=highcontrast&locale=en"  alt="mee-meet"  />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=meet244&theme=highcontrast"  alt="meet244"  />
 
-</div>
+[![meet244's GitHub | Stats](https://stats.quine.sh/meet244/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meet244)
 
   
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meet244&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div  align="center">
+# 🔰 Holopin Badges
+[![An image of @meet244's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meet244)](https://holopin.io/@meet244)
 
-  
 
-### Show some 💖 by starring some of the [repositories](https://github.com/meet244?tab=repositories)!
 
-  
+### Show some 💖 by 🌟 some of the [repositories](https://github.com/meet244?tab=repositories)!
 
-</div>
 
-  
-
-<div  align="center">
 
 <img  src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg"  alt="animated"  />
