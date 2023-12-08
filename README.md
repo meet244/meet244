@@ -89,12 +89,17 @@
 
 
 ## 📊 GitHub Stats
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=meet244&theme=highcontrast&locale=en&layout=donut-vertical"  alt="meet244"  />
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=meet244&show_icons=true&theme=highcontrast&locale=en"  alt="mee-meet"  />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=meet244&theme=highcontrast"  alt="meet244"  />
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=meet244&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="meet244" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=meet244&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="meet244" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meet244&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
 [![meet244's GitHub | Stats](https://stats.quine.sh/meet244/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meet244)
 
+</div>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meet244&theme=radical&no-frame=false&no-bg=false&margin-w=4)
