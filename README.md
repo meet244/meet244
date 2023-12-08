@@ -26,14 +26,21 @@
 
 <h3  align="left">Connect with me:</h3>
 
-  
-
-<p  align="left">  <a  href="https://www.linkedin.com/in/meet-patel-90416b226/"  target="_blank"><img  src="https://img.shields.io/badge/-Meet%20Patel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-patel-90416b226/"  alt="LinkedIn"></a>
-<a  href="https://www.instagram.com/meetpatel_2801/"  target="_blank"><img  src="https://img.shields.io/badge/-meetpatel_2801-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram"/></a>
-<a  href="https://github.com/meet244/"  target="_blank"><img  src="https://img.shields.io/badge/-meet244-gray?style=for-the-badge&logo=github&logoColor=white"  alt="GitHub"/></a>
-<a  href="https://www.linkedin.com/in/meet-patel-90416b226/"  target="_blank"><img  src="https://img.shields.io/badge/-Meet%20Patel-DB4437?style=for-the-badge&logo=aboutdotme&logoColor=white&link=https://meet244.github.io/meet244/"  alt="Website"></a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/meet-patel-90416b226/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Meet%20Patel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-patel-90416b226/" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/meetpatel_2801/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-meetpatel_2801-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/meet244/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-meet244-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/meet-patel-90416b226/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Meet%20Patel-DB4437?style=for-the-badge&logo=aboutdotme&logoColor=white&link=https://meet244.github.io/meet244/" alt="Website">
+  </a>
 </p>
+
 
 <p  align="left">
 
@@ -96,9 +103,8 @@
 [![An image of @meet244's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meet244)](https://holopin.io/@meet244)
 
 
-
-### Show some 💖 by 🌟 some of the [repositories](https://github.com/meet244?tab=repositories)!
-
-
+<div style="text-align: center;">
+  <h3>Show some 💖 by 🌟 some of the <a href="https://github.com/meet244?tab=repositories">repositories</a>!</h3>
+</div>
 
 <img  src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg"  alt="animated"  />
