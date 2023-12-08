@@ -87,6 +87,6 @@
 
 [![An image of @meet244's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meet244)](https://holopin.io/@meet244)
 
-<h3 align="center">Show some 💖 by 🌟 some of the <a href="https://github.com/meet244?tab=repositories">repositories</a>!</h3>
+<h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/meet244?tab=repositories">repositories</a>!</h3>
 
 <img  src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg"  alt="animated"  />
