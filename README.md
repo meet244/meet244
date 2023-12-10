@@ -36,7 +36,7 @@
   <a href="https://github.com/meet244/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-meet244-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/meet-patel-90416b226/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.behance.net/meet244" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Meet%20Patel-DB4437?style=for-the-badge&logo=aboutdotme&logoColor=white&link=https://meet244.github.io/meet244/" alt="Website">
   </a>
 </p>
