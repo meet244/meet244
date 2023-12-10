@@ -4,7 +4,7 @@
 
   
 
-<h2  align="center">About me</h2>
+<h2  align="center">💫About me</h2>
 
 <p  align="center">I'm enthusiastic about AI, and always eager to learn new tech. In my free time, I love reading, play football, and developing helpful Android apps. Let's make a positive impact together!</p>
 
@@ -24,7 +24,7 @@
 
   
 
-<h2  align="center">Connect with me</h2>
+<h2  align="center"> 🤝Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meet-patel-90416b226/" target="_blank" rel="noopener noreferrer">
@@ -46,7 +46,7 @@
 <a  href="https://www.leetcode.com/meet2005"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="meet2005"  height="30"  width="40"  /></a><a  href="=https://www.hackerrank.com/profile/meet2005pokar"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="@meet2005pokar"  height="30"  width="40"  /></a>
 </p>
 
-<h2 align="center">hobbies & interests</h2>
+<h2 align="center">🛠️Hobbies & Interests</h2>
 
   
 
@@ -58,11 +58,11 @@
 
 - 📖 Reading: I love reading books that provide knowledge beyond what schools and colleges teach.
 
-- 🌏 Exploration: I also have a keen interest in exploring new things and the latest technologies that emerge in the market.
+- 🌏 Exploration: I also have a keen interest in exploring new things and also the places that are new to me.
 
 - 🎧 Music: I occasionally listen to songs for relaxation and enjoyment.
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">💻Tech Stack</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,css,discord,figma,firebase,flask,git,github,gradle,html,java,js,kotlin,linux,mongodb,mysql,netlify,nginx,postgres,postman,powershell,pr,py,pytorch,raspberrypi,react,regex,replit,sqlite,selenium,tensorflow,vercel,vscode,visualstudio&perline=9">
 
