@@ -12,7 +12,7 @@
 
   
 
-- 👯 I’m looking to collaborate on [Atten](https://github.com/meet244/Atten) & [Atten Admin](https://github.com/meet244/Atten_Admin)
+- 👯 I’m looking to collaborate with **smart people**
 
   
 
