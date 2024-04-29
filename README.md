@@ -8,11 +8,11 @@
 
 <p  align="center">I'm enthusiastic about AI, and always eager to learn new tech. In my free time, I love reading, play football, and developing helpful Android apps. Let's make a positive impact together!</p>
 
-- 🌱 I’m currently into **Content Creation & exploring lots of stuff**
+- 🌱 I’m currently figuring to **start something very NEW & BOLD**
 
-  
 
-- 👯 I’m looking to collaborate with **smart people**
+
+- 👯 I’m looking to collaborate with **curious people**
 
   
 
