@@ -48415,3 +48415,13 @@ Webflow.require("commerce") &&
     siteId: "6653f7171c91696414ba7689",
     apiUrl: "https://render.webflow.com",
   });
+
+  function sendmail() {
+			// const name = `${document.getElementById('fname').value} ${document.getElementById('lname').value}`;
+			const subject = document.getElementById('Email-3').value;
+			const body = `Hi Meet! I, [your name] just visited your website.\n\nI wanted to talk about...\n\n${document.getElementById('message').value}`
+
+			const mailtoLink = `mailto: meet2005pokar@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+			const newTab = window.open(mailtoLink, '_blank');
+		}
