@@ -1,3 +1,11 @@
+/*!
+ * Webflow: Front-end site library
+ * @license MIT
+ * Inline scripts may access the api using an async handler:
+ *   var Webflow = Webflow || [];
+ *   Webflow.push(readyFunction);
+ */
+
 (() => {
   var aee = Object.create;
   var Ls = Object.defineProperty;
@@ -1637,7 +1645,25 @@ __p+='`),
           e(l).attr("style", M ? "display: none !important;" : "");
         }
         function d() {
-            return;
+          return;
+          var M = e('<a class="w-webflow-badge"></a>').attr(
+              "href",
+              "https://webflow.com?utm_campaign=brandjs"
+            ),
+            g = e("<img>")
+              .attr(
+                "src",
+                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg"
+              )
+              .attr("alt", "")
+              .css({ marginRight: "4px", width: "26px" }),
+            v = e("<img>")
+              .attr(
+                "src",
+                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg"
+              )
+              .attr("alt", "Made in Webflow");
+          return M.append(g, v), M[0];
         }
         function h() {
           var M = i.children(o),
@@ -46216,11 +46242,17 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
+        id: "6653f7171c91696414ba7690|2f9dd353-9640-fa6a-dca8-053aecb41a4f",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
-        id: "6653f7171c91696414ba7690|2f9dd353-9640-fa6a-dca8-053aecb41a4f",
       },
-      targets: [],
+      targets: [
+        {
+          id: "6653f7171c91696414ba7690|2f9dd353-9640-fa6a-dca8-053aecb41a4f",
+          appliesTo: "ELEMENT",
+          styleBlockIds: [],
+        },
+      ],
       config: {
         loop: false,
         playInReverse: false,
@@ -46252,11 +46284,17 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
+        id: "6653f7171c91696414ba7690|6a489738-5e26-cae4-21e9-a794eb011588",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
-        id: "6653f7171c91696414ba7690|6a489738-5e26-cae4-21e9-a794eb011588",
       },
-      targets: [],
+      targets: [
+        {
+          id: "6653f7171c91696414ba7690|6a489738-5e26-cae4-21e9-a794eb011588",
+          appliesTo: "ELEMENT",
+          styleBlockIds: [],
+        },
+      ],
       config: {
         loop: false,
         playInReverse: false,
@@ -46288,11 +46326,17 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
+        id: "6653f7171c91696414ba7690|ae936a46-f12e-5ad6-10a3-9b6a8d0665aa",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
-        id: "6653f7171c91696414ba7690|ae936a46-f12e-5ad6-10a3-9b6a8d0665aa",
       },
-      targets: [],
+      targets: [
+        {
+          id: "6653f7171c91696414ba7690|ae936a46-f12e-5ad6-10a3-9b6a8d0665aa",
+          appliesTo: "ELEMENT",
+          styleBlockIds: [],
+        },
+      ],
       config: {
         loop: false,
         playInReverse: false,
@@ -46324,11 +46368,17 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
+        id: "6653f7171c91696414ba7690|ffdb86d1-90dc-519e-a730-cebafa8db9e0",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
-        id: "6653f7171c91696414ba7690|ffdb86d1-90dc-519e-a730-cebafa8db9e0",
       },
-      targets: [],
+      targets: [
+        {
+          id: "6653f7171c91696414ba7690|ffdb86d1-90dc-519e-a730-cebafa8db9e0",
+          appliesTo: "ELEMENT",
+          styleBlockIds: [],
+        },
+      ],
       config: {
         loop: false,
         playInReverse: false,
@@ -46360,11 +46410,17 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
+        id: "6653f7171c91696414ba7690|96c0a600-3bf1-195d-b174-4c132b026944",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
-        id: "6653f7171c91696414ba7690|96c0a600-3bf1-195d-b174-4c132b026944",
       },
-      targets: [],
+      targets: [
+        {
+          id: "6653f7171c91696414ba7690|96c0a600-3bf1-195d-b174-4c132b026944",
+          appliesTo: "ELEMENT",
+          styleBlockIds: [],
+        },
+      ],
       config: {
         loop: false,
         playInReverse: false,
@@ -46396,11 +46452,17 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
+        id: "6653f7171c91696414ba7690|9a3d11dc-66d0-997e-e2bf-47038b9aff95",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
-        id: "6653f7171c91696414ba7690|9a3d11dc-66d0-997e-e2bf-47038b9aff95",
       },
-      targets: [],
+      targets: [
+        {
+          id: "6653f7171c91696414ba7690|9a3d11dc-66d0-997e-e2bf-47038b9aff95",
+          appliesTo: "ELEMENT",
+          styleBlockIds: [],
+        },
+      ],
       config: {
         loop: false,
         playInReverse: false,
@@ -46432,11 +46494,17 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
+        id: "6653f7171c91696414ba7690|62ad69b6-14c3-27ce-596e-55d4c2589818",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
-        id: "6653f7171c91696414ba7690|62ad69b6-14c3-27ce-596e-55d4c2589818",
       },
-      targets: [],
+      targets: [
+        {
+          id: "6653f7171c91696414ba7690|62ad69b6-14c3-27ce-596e-55d4c2589818",
+          appliesTo: "ELEMENT",
+          styleBlockIds: [],
+        },
+      ],
       config: {
         loop: false,
         playInReverse: false,
@@ -46627,11 +46695,11 @@ Webflow.require("ix2").init({
                 delay: 0,
                 easing: "",
                 duration: 0,
-                value: "none",
                 target: {
                   useEventTarget: "PARENT",
                   id: "6653f7171c91696414ba7690|cdeb0232-a710-c254-740f-33b90c1f4687",
                 },
+                value: "none",
               },
             },
           ],
@@ -46679,63 +46747,7 @@ Webflow.require("ix2").init({
         {
           actionItems: [
             {
-              id: "a-8-n-12",
-              actionTypeId: "GENERAL_DISPLAY",
-              config: {
-                delay: 0,
-                easing: "",
-                duration: 0,
-                target: {
-                  selector: ".nav-off-img",
-                  selectorGuids: ["1dfa0800-8b60-5b64-3d0b-d0d7a6c95795"],
-                },
-                value: "block",
-              },
-            },
-            {
-              id: "a-8-n-13",
-              actionTypeId: "GENERAL_DISPLAY",
-              config: {
-                delay: 0,
-                easing: "",
-                duration: 0,
-                target: {
-                  selector: ".nav-on-img",
-                  selectorGuids: ["b27d3fcd-db45-73ac-4a37-fb0ed3a7416d"],
-                },
-                value: "none",
-              },
-            },
-            {
-              id: "a-8-n-14",
-              actionTypeId: "GENERAL_DISPLAY",
-              config: {
-                delay: 0,
-                easing: "",
-                duration: 0,
-                target: {
-                  useEventTarget: "CHILDREN",
-                  id: "6653f7171c91696414ba7690|ae5f66ca-66c8-b515-96eb-3667ad50b870",
-                },
-                value: "none",
-              },
-            },
-            {
-              id: "a-8-n-15",
-              actionTypeId: "GENERAL_DISPLAY",
-              config: {
-                delay: 0,
-                easing: "",
-                duration: 0,
-                target: {
-                  useEventTarget: "CHILDREN",
-                  id: "6653f7171c91696414ba7690|6c090298-27c7-0aaa-831e-4173455b6722",
-                },
-                value: "block",
-              },
-            },
-            {
-              id: "a-8-n-16",
+              id: "a-8-n-25",
               actionTypeId: "STYLE_TEXT_COLOR",
               config: {
                 delay: 0,
@@ -46926,10 +46938,38 @@ Webflow.require("ix2").init({
                 delay: 0,
                 easing: "",
                 duration: 0,
-                value: "none",
                 target: {
                   useEventTarget: "PARENT",
                   id: "6653f7171c91696414ba7690|cdeb0232-a710-c254-740f-33b90c1f4687",
+                },
+                value: "none",
+              },
+            },
+            {
+              id: "a-8-n-23",
+              actionTypeId: "GENERAL_DISPLAY",
+              config: {
+                delay: 0,
+                easing: "",
+                duration: 0,
+                value: "none",
+                target: {
+                  useEventTarget: "CHILDREN",
+                  id: "6653f7171c91696414ba7690|ae5f66ca-66c8-b515-96eb-3667ad50b870",
+                },
+              },
+            },
+            {
+              id: "a-8-n-24",
+              actionTypeId: "GENERAL_DISPLAY",
+              config: {
+                delay: 0,
+                easing: "",
+                duration: 0,
+                value: "block",
+                target: {
+                  useEventTarget: "CHILDREN",
+                  id: "6653f7171c91696414ba7690|6c090298-27c7-0aaa-831e-4173455b6722",
                 },
               },
             },
@@ -47146,11 +47186,11 @@ Webflow.require("ix2").init({
                 delay: 0,
                 easing: "",
                 duration: 0,
-                value: "none",
                 target: {
                   useEventTarget: "PARENT",
                   id: "6653f7171c91696414ba7690|cdeb0232-a710-c254-740f-33b90c1f4687",
                 },
+                value: "none",
               },
             },
           ],
@@ -47367,11 +47407,11 @@ Webflow.require("ix2").init({
                 delay: 0,
                 easing: "",
                 duration: 0,
-                value: "none",
                 target: {
                   useEventTarget: "PARENT",
                   id: "6653f7171c91696414ba7690|cdeb0232-a710-c254-740f-33b90c1f4687",
                 },
+                value: "none",
               },
             },
           ],
@@ -47588,11 +47628,11 @@ Webflow.require("ix2").init({
                 delay: 0,
                 easing: "",
                 duration: 0,
-                value: "none",
                 target: {
                   useEventTarget: "PARENT",
                   id: "6653f7171c91696414ba7690|cdeb0232-a710-c254-740f-33b90c1f4687",
                 },
+                value: "none",
               },
             },
           ],
@@ -48063,18 +48103,18 @@ Webflow.require("ix2").init({
                 delay: 0,
                 easing: "",
                 duration: 0,
-                value: "none",
                 target: {
                   useEventTarget: "PARENT",
                   id: "6653f7171c91696414ba7690|cdeb0232-a710-c254-740f-33b90c1f4687",
                 },
+                value: "none",
               },
             },
           ],
         },
       ],
-      createdOn: 1717335397744,
       useFirstGroupAsInitialState: false,
+      createdOn: 1717335397744,
     },
     "a-16": {
       id: "a-16",
@@ -48089,18 +48129,18 @@ Webflow.require("ix2").init({
                 delay: 0,
                 easing: "",
                 duration: 0,
-                value: "block",
                 target: {
                   useEventTarget: "SIBLINGS",
                   id: "6653f7171c91696414ba7690|cdeb0232-a710-c254-740f-33b90c1f4687",
                 },
+                value: "block",
               },
             },
           ],
         },
       ],
-      createdOn: 1717335481600,
       useFirstGroupAsInitialState: false,
+      createdOn: 1717335481600,
     },
     fadeIn: {
       id: "fadeIn",
@@ -48410,18 +48450,12 @@ Webflow.require("ix2").init({
   },
 });
 
-Webflow.require("commerce") &&
-  Webflow.require("commerce").init({
-    siteId: "6653f7171c91696414ba7689",
-    apiUrl: "https://render.webflow.com",
-  });
+function sendmail() {
+  // const name = `${document.getElementById('fname').value} ${document.getElementById('lname').value}`;
+  const subject = document.getElementById('Email-3').value;
+  const body = `Hi Meet! I, [your name] just visited your website.\n\nI wanted to talk about...\n\n${document.getElementById('message').value}`
 
-  function sendmail() {
-			// const name = `${document.getElementById('fname').value} ${document.getElementById('lname').value}`;
-			const subject = document.getElementById('Email-3').value;
-			const body = `Hi Meet! I, [your name] just visited your website.\n\nI wanted to talk about...\n\n${document.getElementById('message').value}`
+  const mailtoLink = `mailto: meet2005pokar@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
-			const mailtoLink = `mailto: meet2005pokar@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-
-			const newTab = window.open(mailtoLink, '_blank');
-		}
+  const newTab = window.open(mailtoLink, '_blank');
+}
