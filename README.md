@@ -107,7 +107,7 @@
 
 # <img src="https://github.com/user-attachments/assets/a68c93ba-7265-495b-a791-9d8e0a289fb2" alt="Robot" width="40" /> Achievements
 -   🥉 **Third Prize** – Technovate Hackathon
--   🏅 **Domain Winner** – Lines of Code (LOC) Hackathon
+-   🏅 **Track Winner** – Lines of Code (LOC) Hackathon
 -   🥈 **First Runner-up** – ERR_404 National Level Hackathon
 -   🏆 **Winner** – CodeSprint Hackathon
 -   🥇 **AI/ML Track Winner** – Technovate Hackathon
